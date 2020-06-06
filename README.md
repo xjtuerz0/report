@@ -18,5 +18,5 @@ May
 20200515  
 [4]A Prism Module for Semantic Disentanglement in Name Entity Recognition  
 [5]BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(值得好好研究)  
-20200529
+20200529  
 [6]	A Unified MRC Framework for Named Entity Recognition 
