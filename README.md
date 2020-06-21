@@ -21,10 +21,10 @@ May
 20200529  
 [6]	A Unified MRC Framework for Named Entity Recognition
 June
-[1]Bipartite Flat-Graph Network for Nested Named Entity Recognition
-[2]Code and Named Entity Recognition in StackOverflow
-[3]Named Entity Recognition without Labelled Data: A Weak Supervision Approach
-[4]GloVe: Global Vectors for Word Representation
-[5]Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition
-[6]Empower Entity Set Expansion via Language Model Probing
-[7]Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference 
+[1]Bipartite Flat-Graph Network for Nested Named Entity Recognition  
+[2]Code and Named Entity Recognition in StackOverflow  
+[3]Named Entity Recognition without Labelled Data: A Weak Supervision Approach  
+[4]GloVe: Global Vectors for Word Representation  
+[5]Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition  
+[6]Empower Entity Set Expansion via Language Model Probing  
+[7]Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference   
