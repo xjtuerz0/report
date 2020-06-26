@@ -28,3 +28,5 @@ June
 [5]Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition  
 [6]Empower Entity Set Expansion via Language Model Probing  
 [7]Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference   
+[8]Named Entity Recognition as Dependency Parsing  
+[9]Deep Biaffine Attention for Dependency Parsing  
