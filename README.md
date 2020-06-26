@@ -10,6 +10,7 @@ April
 20200501  
 [5] A Probabilistic Co-Bootstrapping Method for Entity Set Expansion  
 [6] A Joint Model for Entity Set Expansion and Attribute Extraction from Web Search Queries  
+
 May  
 20200508  
 [1]TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition  
@@ -19,8 +20,9 @@ May
 [4]A Prism Module for Semantic Disentanglement in Name Entity Recognition  
 [5]BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(值得好好研究)  
 20200529  
-[6]	A Unified MRC Framework for Named Entity Recognition
-June
+[6]	A Unified MRC Framework for Named Entity Recognition  
+
+June  
 [1]Bipartite Flat-Graph Network for Nested Named Entity Recognition  
 [2]Code and Named Entity Recognition in StackOverflow  
 [3]Named Entity Recognition without Labelled Data: A Weak Supervision Approach  
