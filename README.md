@@ -31,4 +31,8 @@ June
 [6]Empower Entity Set Expansion via Language Model Probing  
 [7]Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference   
 [8]Named Entity Recognition as Dependency Parsing  
-[9]Deep Biaffine Attention for Dependency Parsing  
+[9]Deep Biaffine Attention for Dependency Parsing   
+
+July  
+[1]Linformer: Self-Attention with Linear Complexity  
+[2]Semi-supervised sequence modeling with cross-view training  
