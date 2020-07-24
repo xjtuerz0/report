@@ -35,4 +35,11 @@ June
 
 July  
 [1]Linformer: Self-Attention with Linear Complexity  
-[2]Semi-supervised sequence modeling with cross-view training  
+[2]Semi-supervised sequence modeling with cross-view training 
+[3]Hierarchically-Refined Label Attention Network for Sequence Labeling  
+[4]Chinese NER Using Lattice LSTM  
+[5]Neural Architectures for Nested NER through Linerization  
+[6]Contextual String Embeddings for Sequence Labeling  
+[7]CNN-Based Chinese NER with Lexicon Rethinking  
+[8]基于CRF的互联网文本命名实体识别研究  
+[9]Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network  
