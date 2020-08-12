@@ -43,3 +43,8 @@ July
 [7]CNN-Based Chinese NER with Lexicon Rethinking  
 [8]基于CRF的互联网文本命名实体识别研究  
 [9]Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network  
+
+August  
+[1]Learning Named Entity Tagger using Domain-Specific Dictionary  
+[2]ERNIE: Enhanced Language Representation with Informative Entities  
+[3]A Boundary-aware Neural Model for Nested Named Entity Recognition  
