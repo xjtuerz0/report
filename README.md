@@ -48,3 +48,7 @@ August
 [1]Learning Named Entity Tagger using Domain-Specific Dictionary  
 [2]ERNIE: Enhanced Language Representation with Informative Entities  
 [3]A Boundary-aware Neural Model for Nested Named Entity Recognition  
+[4]Boundary Enhanced Neural Span Classification for Nested Named Entity Recognition  
+[5]Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities  
+[6]Neural Segmental Hypergraphs for Overlapping Mention Recognition  
+[7]Deep Exhaustive Model for Nested Named Entity Recognition  
