@@ -52,3 +52,8 @@ August
 [5]Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities  
 [6]Neural Segmental Hypergraphs for Overlapping Mention Recognition  
 [7]Deep Exhaustive Model for Nested Named Entity Recognition  
+
+September  
+[1]Joint Mention Extraction and Classification with Mention Hypergraphs  
+[2]Learning with Hypergraphs: Clustering, Classification, and Embedding  
+[3]A Neural Layered Model for Nested Named Entity Recognition  
